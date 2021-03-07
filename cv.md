@@ -33,8 +33,8 @@
   ```
 
 #### My work
-  I present my graduation project at the IT-Academy
-  [My first site] http://fe.it-academy.by/Sites/0028736/Home_page.html;
+  I present my graduation project at the IT-Academy 
+  [my first site]: http://fe.it-academy.by/Sites/0028736/Home_page.html
 
 #### My IT education
   In 2019 I took a course from IT-Academy, web development using HTML, CSS and JS (basic level).
